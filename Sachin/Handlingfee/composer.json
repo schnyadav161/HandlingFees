@@ -1,0 +1,22 @@
+{
+    "name": "sachin/module-handlingfee",
+    "description": "Handler Fee",
+    "type": "magento2-module",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Sachin Yaday",
+            "email": "sachin@dummy.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Sachin\\Handlingfee\\": ""
+        }
+    }
+}

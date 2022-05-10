@@ -1,0 +1,17 @@
+{
+    "quote": {
+        "column": {
+            "handlingfee": true
+        }
+    },
+    "sales_order": {
+        "column": {
+            "handlingfee": true
+        }
+    },
+    "quote_item": {
+        "column": {
+            "handlingfee": true
+        }
+    }
+}
